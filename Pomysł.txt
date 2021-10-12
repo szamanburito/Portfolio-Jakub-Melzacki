@@ -1,0 +1,38 @@
+Portfolio melzaka 
+
+ lang = en/pl
+
+
+Home
+ - Jakub Melzacki logo
+ - Python Developer
+{ na focie }
+
+Services
+
+[ coś ciekawego na temat działania ]
+
+ - Back-end web developer
+ - Data analytics
+ - Data analysis
+ - Machine Learning
+
+About
+
+ - Fota
+
+[ coś zwięźle o sobie ]
+
+Projects
+
+[gitHub link do repozytorium]
+
+ - GitHub include
+ - GitHub include
+ - GitHub include
+
+Contact
+
+ - email
+ - facebook
+ - telefon
